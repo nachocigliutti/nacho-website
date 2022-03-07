@@ -29,7 +29,7 @@ organizations:
     url: https://www.home.nyu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Economics (pending)
       institution: New York University
       year: ""
     - course: BSc in Economics
