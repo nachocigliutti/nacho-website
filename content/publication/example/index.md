@@ -27,7 +27,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: Adversarial Method of Moments
 doi: ""
 featured: true
 tags: []
