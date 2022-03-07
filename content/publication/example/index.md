@@ -20,9 +20,10 @@ authors:
   - ElenaManresa
 author_notes: []
 publication: ""
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: "We introduce the Adversarial Method of Moments (AMM) for models
+  defined with moment conditions. The estimator is asymptotically equivalent to
+  optimally– weighted 2–step GMM, but outperforms the GMM estimator in finite
+  samples. "
 url_dataset: ""
 url_project: ""
 publication_short: ""
