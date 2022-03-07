@@ -1,6 +1,7 @@
 ---
 title: Ignacio Cigliutti
 role: Economics PhD student
+avatar_filename: 33331011.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
