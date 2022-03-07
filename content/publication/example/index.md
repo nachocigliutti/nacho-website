@@ -17,6 +17,7 @@ publication_types:
   - "3"
 authors:
   - admin
+  - ElenaManresa
 author_notes: []
 publication: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
