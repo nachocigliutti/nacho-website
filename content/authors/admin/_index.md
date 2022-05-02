@@ -4,10 +4,9 @@ role: Economics PhD student
 avatar_filename: avatar.jpg
 bio: My research interests are macroeconomics and econometrics.
 interests:
-  - Macroeconomics
+  - Econometrics
+  - Macro Labor
   - Networks
-  - Econometics
-  - Labor
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,7 +22,7 @@ social:
     link: https://github.com/nachocigliutti
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ignacio-cigliutti-76014767/
+    link: https://www.linkedin.com/in/nachocigliutti
 organizations:
   - name: New York University
     url: https://www.home.nyu.edu/
